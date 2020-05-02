@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>儒家五常</title>
+	</head>
+	<body>
+		<outline text="儒家五常" _mubu_text="%E5%84%92%E5%AE%B6%E4%BA%94%E5%B8%B8">
+		<outline text="仁" _mubu_text="%E4%BB%81">
+		<outline text="a" _mubu_text="a">
+		<outline text="a1" _mubu_text="a1">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="义" _mubu_text="%E4%B9%89">
+		<outline text="b" _mubu_text="b">
+		<outline text="b2" _mubu_text="b2">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="礼" _mubu_text="%E7%A4%BC">
+		<outline text="c" _mubu_text="c">
+		</outline>
+		</outline>
+		<outline text="智" _mubu_text="%E6%99%BA">
+		<outline text="d" _mubu_text="d">
+		</outline>
+		</outline>
+		<outline text="信" _mubu_text="%E4%BF%A1">
+		<outline text="d" _mubu_text="d">
+		</outline>
+		</outline>
+		</outline>
+	</body>
+</opml>
